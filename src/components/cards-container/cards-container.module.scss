@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin: 20px auto;
+  max-width: 1330px;
+}
+.containerInline {
+  flex-wrap: nowrap;
+  overflow-x: auto;
+}

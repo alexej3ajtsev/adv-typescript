@@ -1,0 +1,16 @@
+.containerWithChosenCard {
+  main {
+    width: 70%
+  }
+  > div {
+    position: fixed;
+    width: 30vw;  
+    height: 100vh;
+    right: 0;
+    top: 0;
+  }
+}
+
+.shosenCardContainer {
+  position: relative;
+}
